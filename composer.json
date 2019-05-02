@@ -1,0 +1,16 @@
+{
+  "name": "kyrozyn/azure_sub02",
+  "description": "submission for azure 2",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "kyrozyn",
+      "email": "arr@e.email"
+    }
+  ],
+  "require": {
+    "microsoft/azure-storage-blob": "1.4.0",
+    "microsoft/azure-storage": "v0.19.1"
+  }
+}
